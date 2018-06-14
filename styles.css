@@ -6,6 +6,11 @@
     background-size: 80%;
 }
 
+#bag.burst {
+    background: url(/img/bag-burst.png) center no-repeat;
+    background-size: 80%;
+}
+
 #bag-health {
     width: 200px;
     border: 2px solid #000;
